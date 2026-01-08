@@ -1,0 +1,28 @@
+{
+	"providers": [
+		{
+			"__name": "overlay: 130 by 13",
+			"type": "bitmap",
+			"file": "minecraft:font/gui/overlay/130_13.png",
+			"ascent": 8,
+			"height": 13,
+			"chars": ["\uE030"]
+		},
+		{
+			"__name": "overlay: 130 by 29",
+			"type": "bitmap",
+			"file": "minecraft:font/gui/overlay/130_29.png",
+			"ascent": 8,
+			"height": 29,
+			"chars": ["\uE031"]
+		},
+		{
+			"__name": "overlay: 100 by 13",
+			"type": "bitmap",
+			"file": "minecraft:font/gui/overlay/100_13.png",
+			"ascent": 8,
+			"height": 13,
+			"chars": ["\uE032"]
+		}
+	]
+}

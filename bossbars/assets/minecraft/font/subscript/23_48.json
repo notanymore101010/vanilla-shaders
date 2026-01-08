@@ -1,0 +1,21 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/subscript.png",
+            "ascent": 23,
+            "height": 48,
+            "chars": [
+                "abcdef",
+                "ghijkl",
+                "mnopqr",
+                "stuvwx",
+                "yz1234",
+                "567890",
+                "/-.[]:",
+                "()<>#_",
+                "!?@\u0000\u0000\u0020"
+            ]
+        }
+    ]
+}
